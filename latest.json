@@ -1,0 +1,7 @@
+{
+ "version": "2026.11.09-1047",
+ "file": "MyDubber-Update-2026.11.09-1047.zip",
+ "size": 74892755,
+ "sha256": "5b415e682e72a52c79c6d3dc2213cbdf0710ae266c60ab48cebb5eaacbc233bf",
+ "notes": "New AI-style look with live progress on the steps bar. Translate stops and keeps your lines when Gemini's daily limit is reached. New projects use your original video instead of a copy. Smooth dropdowns, Apps menu, Khmer title, faster Translate and Khmer voice."
+}
